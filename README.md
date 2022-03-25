@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... machine learning
 - 🌱 I’m currently learning ... computer science
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... by my email
+- 📫 How to reach me ... by my email mohamedsayed011010@gmail.com
 
 
 <!---
